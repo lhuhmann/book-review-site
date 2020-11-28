@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-session = "*"
+psycopg2-binary = "*"
+sqlalchemy = "*"
+pandas = "*"
+flask-sqlalchemy = "*"
+requests = "*"
+dash = "*"
+flask-wtf = "*"
+pyodbc = "*"
+pymysql = "*"
+
+[requires]
+python_version = "3.9"

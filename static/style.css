@@ -1,0 +1,11 @@
+.error {
+  color: red;
+}
+
+textarea {
+  max-width: 100%;
+}
+
+#single_book_table td:first-child {
+    font-weight: bold;
+}

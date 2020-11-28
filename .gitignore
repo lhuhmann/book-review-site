@@ -1,0 +1,5 @@
+__pycache__
+*.pyc
+.my.cnf
+goodreads_api_key.txt
+flask_secret_key.txt
